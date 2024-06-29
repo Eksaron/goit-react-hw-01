@@ -1,0 +1,19 @@
+table {
+  border-collapse: collapse;
+  border: 1px Solid #000;
+  width: 100%;
+}
+
+th {
+  background-color: #000;
+  color: #fff;
+}
+
+tr td {
+  border: 1px Solid #000;
+}
+
+tr:nth-child(2n) {
+  background-color: darkgrey;
+  color: #000;
+}

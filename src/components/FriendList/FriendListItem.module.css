@@ -1,0 +1,18 @@
+.friendlistitem {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.friendlistitem_online {
+  color: green;
+}
+
+.friendlistitem_offline {
+  color: red;
+}
+
+.friendlistitem_name {
+  color: #000;
+  font-size: 22px;
+}
